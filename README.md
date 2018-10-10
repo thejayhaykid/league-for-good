@@ -54,4 +54,4 @@ We warmly welcome contributions from anyone. Check out our [how to contribute](h
 
 ## Screenshot
 
-![Screenshot]("/images/Screen Shot 1.png")
+![Screenshot]("https://github.com/thejayhaykid/league-for-good/blob/master/images/Screen%20Shot%201.png")
