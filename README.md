@@ -54,4 +54,4 @@ We warmly welcome contributions from anyone. Check out our [how to contribute](h
 
 ## Screenshot
 
-![Screenshot](./images/Screen Shot 1.png)
+![Screenshot]("/images/Screen Shot 1.png")
