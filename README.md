@@ -51,3 +51,7 @@ Builds the app for development. It is watched by webpack for any changes in the 
 
 ## How to Contribute
 We warmly welcome contributions from anyone. Check out our [how to contribute](https://github.com/freeCodeCamp/league-for-good/blob/master/CONTRIBUTING.md) section to find out how you can do so.
+
+## Screenshot
+
+![Screenshot](./images/Screen Shot 1.png)
